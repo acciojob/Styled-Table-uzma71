@@ -1,1 +1,8 @@
-/* your code */
+table,th,td,tbody,thead,tr{
+	border:2px solid black;
+	width:50%;
+	border-raduis:2px;
+	border-collapse:collapse;
+	background-color: yellowgreen;
+	
+}
